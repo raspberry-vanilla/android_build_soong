@@ -63,8 +63,6 @@ var androidmk_allowlist []string = []string{
 	"art/Android.mk",
 	"bootable/deprecated-ota/updater/Android.mk",
 	"external/libcamera/android/Android.mk",
-	"external/mesa3d/android/Android.mk",
-	"external/minigbm/gbm_mesa_driver/Android.mk",
 	"tools/vendor/google_prebuilts/arc/Android.mk",
 }
 
