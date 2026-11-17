@@ -102,6 +102,7 @@ var Configuration = map[string]PathConfig{
 	"lsof":        Allowed,
 	"mcopy":       Allowed,
 	"mkfs.fat":    Allowed,
+	"mmd":         Allowed,
 	"openssl":     Allowed,
 	"pstree":      Allowed,
 	"rsync":       Allowed,
